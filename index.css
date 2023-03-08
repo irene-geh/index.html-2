@@ -1,0 +1,25 @@
+.container {
+    background: dodgerblue;
+    border: 3px solid midnightblue;
+    width: 4oopx;
+    height: 300px;
+}
+.box {
+    background: palevioletred;
+    font-weight: bold;
+    text-align: center;
+    border: 6px solid maroon;
+    width: 80px;
+    height: 80px;
+
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
